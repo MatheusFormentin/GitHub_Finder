@@ -1,30 +1,31 @@
-# React + TypeScript + Vite
+# GitHub Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Imagem do Projeto
+![image](https://github.com/user-attachments/assets/edc69c3b-8c6c-43a1-a4b5-d4fa1f3d2be2)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Tecnologias e Ferramentas
 
-- Configure the top-level `parserOptions` property like this:
+O site foi construído utilizando uma variedade de tecnologias e ferramentas modernas, destacando minha experiência e versatilidade no desenvolvimento web:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- **HTML & CSS**: Estruturação e estilização responsiva do site.
+- **JavaScript**: Utilizado para criar interatividade e funcionalidades dinâmicas.
+- **REACT**: Ultilizado como framework para facilitar o processo de desenvolvimento e Estruturação do programa.
+- **TypeScript**: Utilizado para cgarantir segurança e o funcionamento do projeto.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### SEO e Performance
+
+- **Otimizado para SEO**: Meta tags e descrições cuidadosamente escolhidas para melhorar a visibilidade do site em motores de busca.
+- **Alto Desempenho**: O código foi otimizado para carregamento rápido e desempenho eficiente.
+
+## Contribuições e Contato
+
+Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
+
+- **Email**: [Formentinmatheus@gmail.com](#)
+- **LinkedIn**: [Matheus Formentin](https://www.linkedin.com/in/matheus-formentin-5b3b8b292/)
+- **WhatsApp**: [(51) 991052719](https://wa.me/5547992164395)
+
+Obrigado por visitar minha Pagina!
